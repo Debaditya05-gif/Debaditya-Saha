@@ -9,22 +9,24 @@ A passionate frontend and backend developer from [India]
 - 🤔 I’m looking for help with [Web-Based Platform for Disaster management]
 - 👯 How to reach me: [debadityasaha880@gmail.com]
 - ⚡ Fun fact: [Paint, Create inovative projects]
-- ### Connect with me:
+- 
+- ### 🔗 Connect with me:
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn" width="40" height="40"/>
+    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://www.facebook.com/YOUR-FACEBOOK-USERNAME" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
+    <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
     </a>
-    <a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original-wordmark.svg" alt="Instagram" width="40" height="40"/>
+    <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+        <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
     </a>
-    <a href="https://hashnode.com/@YOUR-HASHNODE-USERNAME" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt="Hashnode" width="40" height="40"/>
+    <a href="https://hashnode.com/@YOUR_HASHNODE_USERNAME" target="_blank">
+        <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
     </a>
 </p>
+
 
 
 - ### 💻 Languages and Tools:
