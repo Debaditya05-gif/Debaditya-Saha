@@ -9,7 +9,23 @@ A passionate frontend and backend developer from [India]
 - 🤔 I’m looking for help with [Web-Based Platform for Disaster management]
 - 👯 How to reach me: [debadityasaha880@gmail.com]
 - ⚡ Fun fact: [Paint, Create inovative projects]
-- [![LinkedIn](https://www.linkedin.com/in/debaditya-saha-8a9511371?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- ### Connect with me:
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn" width="40" height="40"/>
+    </a>
+    <a href="https://www.facebook.com/YOUR-FACEBOOK-USERNAME" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
+    </a>
+    <a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original-wordmark.svg" alt="Instagram" width="40" height="40"/>
+    </a>
+    <a href="https://hashnode.com/@YOUR-HASHNODE-USERNAME" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt="Hashnode" width="40" height="40"/>
+    </a>
+</p>
+
 
 - ### 💻 Languages and Tools:
 
