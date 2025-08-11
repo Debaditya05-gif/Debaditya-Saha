@@ -13,7 +13,7 @@ A passionate frontend and backend developer from [India]
 - ### 🔗 Connect with me:
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <a href="https://www.linkedin.com/in/debaditya-saha-8a9511371?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
