@@ -49,17 +49,17 @@ A passionate frontend and backend developer from [India]
 - ### Most Used Languages
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debaditya05-gif&layout=compact" alt="Most Used Languages" />
 </p>
 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Debaditya05-gif&show_icons=true" alt="GitHub Stats" />
 </p>
 
 <br>
 
-[![Total Contributions](https://github-readme-stats.vercel.app/api?username=&show_icons=true&include_all_commits=true&count_private=true)]()
+[![Total Contributions](https://github-readme-stats.vercel.app/api?username=Debaditya05-gif&show_icons=true&include_all_commits=true&count_private=true)]()
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smaranika2005&theme=dark" alt="GitHub Streak" />
