@@ -46,6 +46,21 @@ A passionate frontend and backend developer from [India]
     </a>
 </p>
   
-- [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=dark)](https://git.io/streak-stats)
+- ### Most Used Languages
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact" alt="Most Used Languages" />
+</p>
+
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true" alt="GitHub Stats" />
+</p>
+
+<br>
+
+[![Total Contributions](https://github-readme-stats.vercel.app/api?username=&show_icons=true&include_all_commits=true&count_private=true)]()
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smaranika2005&theme=dark" alt="GitHub Streak" />
+</p>
