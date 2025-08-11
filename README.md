@@ -19,7 +19,7 @@ A passionate frontend and backend developer from [India]
     <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
         <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
     </a>
-    <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+    <a href="https://www.instagram.com/debaditya_one?igsh=eHdpeTcwd3gxNm1y" target="_blank">
         <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
     </a>
     <a href="https://hashnode.com/@YOUR_HASHNODE_USERNAME" target="_blank">
